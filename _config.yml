@@ -23,10 +23,10 @@ timezone: Asia/Seoul
 
 title: reason_rock                          # the main title
 
-tagline: Developer   # it will display as the sub-title
+tagline: Develop Note   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  An aspiring developer who wants to experience a variety of beginner's level.
+  Computer Science, Python, 3D printing, Home assistant, Autonomous driving, AI
   
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://reason-rock.github.io'
@@ -40,7 +40,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Yousuk LEE
+  name: reason_rock
   email: reason_rock@naver.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
