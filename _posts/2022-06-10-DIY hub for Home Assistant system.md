@@ -2,7 +2,7 @@
 title: DIY hub for Home Assistant system.
 date: 2022-06-10 10:53:11   
 categories: [Projects(En), IoT(En)]
-tags: [3D printing, 3D modeling, IoT, HA, Home Assistant, Nest Hub, Google home]
+tags: [3D printing, 3D modeling, Iot, HA, Home Assistant, Nest Hub, Google home]
 ---
 Although I established Google home voice control with Home assistant, I realized the need of intuitive touch control system.<br>
 The Nest Hub was Ideal, but my wallet is so empty that I should DIY.<br>
