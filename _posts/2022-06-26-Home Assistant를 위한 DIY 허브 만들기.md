@@ -1,6 +1,6 @@
 ---
 title: Home Assistant를 위한 DIY 허브 만들기
-date: 2022-06-22 14:57:10   
+date: 2022-06-26 14:57:10   
 categories: [Projects(Ko), IoT(Ko)]
 tags: [3D프린팅, 3D모델링, Iot, HA, Home Assistant, 네스트 허브, 홈어시스턴트]
 ---
