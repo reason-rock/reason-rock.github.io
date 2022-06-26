@@ -1,6 +1,6 @@
 ---
 title: DIY hub for Home Assistant system.
-date: 2022-06-26 14:57:10  
+date: 2022-06-26 14:57:10 +9:00
 categories: [Projects(En), IoT(En)]
 tags: [3D printing, 3D modeling, Iot, HA, Home Assistant, Nest Hub, Google home]
 ---
