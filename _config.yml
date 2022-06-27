@@ -51,12 +51,12 @@ social:
     # - https://www.linkedin.com/in/username
 
 google_site_verification:               # fill in to your verification string
-
+  RgPqN8SNci8N7WSrcvffeMR1B3ICSRmrxDFJQ6MXHyE
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id:                 # fill in your Google Analytics ID
+  id:G-RXBFG6DE0H   # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
