@@ -1,6 +1,6 @@
 ---
 title: Niro EV bumper & headlight removal
-date: 2022-07-17 18:34:01
+date: 2022-07-17 18:34:01 +9:00
 categories: [Projects(En), Undergraduate research(En)]
 tags: [Niro, Niro EV, EV, bumper, bumper removal, bumper disassembly, headlight, kia niro, Kia]
 ---
