@@ -10,6 +10,8 @@ tags: [리얼센스, 인텔, 인텔 리얼센스, 얼굴인식, Intel Realsense,
 우연찮게 RealSenseID(이하 RSID)를 접할 기회가 있어 이를 활용한 출입관리시스템을 만들어 보았다.<br>
 코딩이라고는 파이썬 조금밖에 모르는 코린이인지라, 코드가 몹시 비효율적일 수 있으니 단순히 작동방식에 대한 참고용도로만 사용하시길 바란다.
 
+<img src="/assets/img/FID/demo.gif">
+
 <h3>준비물</h3>
  - 젯슨나노<br>
  - Intel RealSenseID<br>
