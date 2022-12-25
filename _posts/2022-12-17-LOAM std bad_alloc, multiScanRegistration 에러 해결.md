@@ -1,7 +1,7 @@
 ---
 title: LOAM std bad_alloc, multiScanRegistration 에러 해결
 date: 2022-12-17 10:53:11 +9:00
-categories: [Linux, (Ko)]
+categories: [Ros, Ros_Ko]
 tags: [std::bad_alloc, PCL, SLAM, loam, multiScanRegistration]
 ---
 
