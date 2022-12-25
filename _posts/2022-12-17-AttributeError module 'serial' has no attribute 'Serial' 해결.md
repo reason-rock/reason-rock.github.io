@@ -5,7 +5,7 @@ categories: [Linux, (Ko)]
 tags: [AttributeError, serial, 시리얼, nmea, pyserial, PermissionError]
 ---
 
-GPS 설정 중에 혹시나 시리얼 모듈이 문제인가 싶어서 재설치 하고 뭐하고 이것저것 하다가 포기하고 잤던 다음날, 다른 MRP 에서는 잘 돌아갔던 nmea 패키지조차 켜지지 않았다.
+MRD-1000v2 설정 중에 혹시나 시리얼 모듈이 문제인가 싶어서 재설치 하고 뭐하고 이것저것 하다가 포기하고 잤던 다음날, 다른 GPS 에서는 잘 돌아갔던 nmea 패키지조차 켜지지 않았다.
 
 ```
 "Traceback (most recent call last):
