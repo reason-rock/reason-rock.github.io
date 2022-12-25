@@ -1,6 +1,6 @@
 ---
 title: C++ internal compiler error 해결
-date: 2022-12-17 13:53:11 +9:00
+date: 2022-12-10 13:53:11 +9:00
 categories: [Linux, (Ko)]
 tags: [우분투, 리눅스, C++, 컴파일러, compiler, 스왑 메모리, swap, swapoff, swapfile]
 ---
