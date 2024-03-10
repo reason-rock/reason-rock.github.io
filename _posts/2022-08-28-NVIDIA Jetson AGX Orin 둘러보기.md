@@ -1,7 +1,7 @@
 ---
 title: NVIDIA Jetson AGX Orin 둘러보기
 date: 2022-08-28 0:11:01 +9:00
-categories: [Device Overview, Embedded(Ko)]
+categories: [Device Overview, Embedded]
 tags: [NVIDIA, ORIN, Jetson, Xavier, jetpack, AGX, 엔비디아, 젯슨]
 ---
 늘 그렇듯이 3D프린터에 일을 주고 나니 Orin을 개봉하고 둘러볼 시간이 아주 잠깐 생겼다.

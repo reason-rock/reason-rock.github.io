@@ -1,8 +1,8 @@
 ---
 title: LOAM std bad_alloc, multiScanRegistration 에러 해결
 date: 2022-12-17 10:53:11 +9:00
-categories: [Ros, Ros_Ko]
-tags: [std::bad_alloc, PCL, SLAM, loam, multiScanRegistration]
+categories: [Projects, SLAM]
+tags: [std::bad_alloc, PCL, SLAM, LOAM, multiScanRegistration]
 ---
 
 PCL을 가지고 수도 없이 삽질을 하던 끝에 어찌어찌 해결을 보고,대안으로 진행중이던 새로운 센서 연동이고 뭐고 일단 다 미뤄두고 본격적으로 라이다로 할 수 있는 것들에 집중하여 경험해보고자 완성된 패키지를 구동해보는 것으로 방향성을 틀어보려 했다.

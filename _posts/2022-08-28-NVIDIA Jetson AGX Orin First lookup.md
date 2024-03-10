@@ -1,7 +1,7 @@
 ---
 title: NVIDIA Jetson AGX Orin First lookup
 date: 2022-08-28 0:13:01 +9:00
-categories: [Device Overview, Embedded(En)]
+categories: [Device Overview, Embedded]
 tags: [NVIDIA, ORIN, Jetson, Xavier, jetpack, AGX]
 ---
 #NVIDIA Jetson AGX Orin First lookup

@@ -1,7 +1,7 @@
 ---
 title: AttributeError module 'serial' has no attribute 'Serial' 해결
 date: 2022-12-17 10:53:11 +9:00
-categories: [Linux, (Ko)]
+categories: [Linux, Ubuntu]
 tags: [AttributeError, serial, 시리얼, nmea, pyserial, PermissionError]
 ---
 

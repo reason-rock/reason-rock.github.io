@@ -1,7 +1,7 @@
 ﻿---
 title: ROS 2 Foxy 설치(Ubuntu 20.04)
 date: 2022-11-26 10:53:11 +9:00
-categories: [Ros, Ros_Ko]
+categories: [Linux, ROS2]
 tags: [우분투, 리눅스, ROS2, Foxy, ROS설치]
 ---
 

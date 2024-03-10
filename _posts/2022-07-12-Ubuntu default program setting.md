@@ -1,8 +1,8 @@
 ---
 title: Ubuntu default program setting
 date: 2022-07-12 0:13:01 +9:00
-categories: [Linux, (En)]
-tags: [Linux, Ubuntu, Default program, python, Vscode, ubuntu 20.04]
+categories: [Linux, Ubuntu]
+tags: [Linux, ubuntu, Default program, python, Vscode, ubuntu 20.04]
 ---
 
 To open the python file on the Linux system, there was inconvenient to open with Vscode because ubuntu basically opened the file with a text editor.

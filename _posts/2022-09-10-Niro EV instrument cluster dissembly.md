@@ -1,7 +1,7 @@
 ---
 title: Niro EV instrument cluster disassembly
 date: 2022-09-11 18:34:01 +9:00
-categories: [Projects(En), Undergraduate research(En)]
+categories: [Projects, Undergraduate research]
 tags: [Niro, Niro EV, EV, Cluster, Cluster removal, cluster disassembly, kia niro, Kia]
 ---
 

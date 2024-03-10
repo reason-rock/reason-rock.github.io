@@ -1,7 +1,7 @@
 ﻿---
 title: 우분투 Error mounting /dev/~ 해결
 date: 2022-11-27 10:53:11 +9:00
-categories: [Linux, (Ko)]
+categories: [Linux, Ubuntu]
 tags: [우분투, 리눅스, 마운트, 외장하드, usb, ntfsfix]
 ---
 

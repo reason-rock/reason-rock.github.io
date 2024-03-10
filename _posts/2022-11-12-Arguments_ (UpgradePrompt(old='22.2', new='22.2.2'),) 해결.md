@@ -1,7 +1,7 @@
 ﻿---
 title: Arguments (UpgradePrompt(old='22.2', new='22.2.2'),) 해결법
 date: 2022-11-12 10:53:11 +9:00
-categories: [Linux, (Ko)]
+categories: [Linux, Ubuntu]
 tags: [우분투, 리눅스, pip, pip버전, 파이썬]
 ---
 

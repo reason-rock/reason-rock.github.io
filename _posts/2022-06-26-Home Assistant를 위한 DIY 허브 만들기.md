@@ -1,7 +1,7 @@
 ---
 title: Home Assistant를 위한 DIY 허브 만들기
 date: 2022-06-26 10:57:10 +9:00
-categories: [Projects(Ko), IoT(Ko)]
+categories: [Projects, IoT(Home Assistant)]
 tags: [3D프린팅, 3D모델링, Iot, HA, Home Assistant, 스마트폰 상시전원 개조, 상시전원, 스마트폰, 스마트폰 배터리, 네스트 허브, 홈어시스턴트]
 ---
 HA를 구축하고 구글홈 음성인식까지 연동하였으나 직관적인 제어는 역시 터치가 편하다는 것을 느끼고, 네스트 허브를 살지 말지 고민하다 직접 만들어보기로 했다.<br>

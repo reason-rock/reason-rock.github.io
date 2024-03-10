@@ -1,7 +1,7 @@
 ---
 title: 오늘 올리지 않으면 평생 못 올릴 것 같아 급하게 올리는 DJI RoboMaster(로보마스터) 후기
 date: 2022-10-23 19:34:01 +9:00
-categories: [Device Overview, Educational products(Ko)]
+categories: [Device Overview, Educational products]
 tags: [DJI, RoboMaster, 로보마스터, 블럭코딩, 자율주행, 라인인식, 객체인식, 비전마커, 로봇]
 ---
 고교생 교육컨텐츠 자문을 위해 DJI 로보마스터 제품을 가지고 간단한 알고리즘 구현을 해 보았다.

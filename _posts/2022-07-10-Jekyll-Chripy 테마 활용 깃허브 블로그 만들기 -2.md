@@ -1,7 +1,7 @@
 ---
 title: Jekyll-Chripy 테마 활용 깃허브 블로그 만들기-2
 date: 2022-07-10 10:53:12 +9:00
-categories: [Projects(Ko), GitHub Blog(Ko)]
+categories: [Projects, GitHub Blog]
 tags: [깃허브, 블로그, 깃블로그, 깃허브 블로그, Jekyll, Chripy, Jekyll-Chirpy]
 ---
 

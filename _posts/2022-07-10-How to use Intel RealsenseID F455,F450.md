@@ -1,7 +1,7 @@
 ---
 title: Simple tutorial for Intel RealsenseID F455/F450
 date: 2022-07-10 13:34:11 +9:00	
-categories: [Projects(En), RealsenseID(En)]
+categories: [Projects, RealsenseID]
 tags: [Intel Realsense, RSID, F450, F455, Face authentication, authentication, Face recognition]
 ---
 It seemed that the general 'Intel realsense SDK' is not compatible with RealSenseID(after this, referred to as RSID)<br>

@@ -1,7 +1,7 @@
 ---
 title: RSID와 OpenCV 활용 출입감지시스템
 date: 2022-08-14 12:34:01 +9:00
-categories: [Projects(Ko), RealsenseID(Ko)]
+categories: [Projects, RealsenseID]
 tags: [리얼센스, 인텔, 인텔 리얼센스, 얼굴인식, Intel Realsense, RSID, F450, F455, Face authentication, authentication, Face recognition]
 ---
 
