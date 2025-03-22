@@ -14,19 +14,19 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: reason_rock                          # the main title
+title: reason_rock # the main title
 
-tagline: Develop Note   # it will display as the sub-title
+tagline: Develop Note # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Computer Science, Python, 3D printing, Home assistant, Autonomous driving, AI
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: 'https://reason-rock.github.io'
+url: "https://reason-rock.github.io"
 
 github:
-  username: reason-rock             # change to your github username
+  username: reason-rock # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
@@ -35,11 +35,11 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: reason_rock
-  email: reason_rock21@gmail.com            # change to your email address
+  email: reason_rock21@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/reason-rock     # change to your github homepage
+    - https://www.printables.com/@_1819547 # change to your twitter homepage
+    - https://github.com/reason-rock # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -59,7 +59,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: G-RXBFG6DE0H 
+    id: G-RXBFG6DE0H
   goatcounter:
     id: # fill in your GoatCounter ID
 
