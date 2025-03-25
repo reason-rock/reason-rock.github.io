@@ -13,11 +13,11 @@
 
 - type: linkedin
   icon: "fab fa-linkedin" # icons powered by <https://fontawesome.com/>
-  url: "www.linkedin.com/in/reasonrock" # Fill with your Linkedin homepage
+  url: "https://www.linkedin.com/in/reasonrock/" # Fill with your Linkedin homepage
 
 - type: youtube
   icon: "fab fa-youtube"
-  url: "https://www.youtube.com/channel/@reason_rock"
+  url: "https://www.youtube.com/@reason_rock"
 # - type: rss
 #   icon: "fas fa-rss"
 #   noblank: true
