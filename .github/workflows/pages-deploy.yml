@@ -48,16 +48,10 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
-  
+          node-version: "20"
+
       - name: Install Bootstrap
         run: npm install bootstrap
-      
-      - name: Install dependencies
-        run: |
-          bundle install --gemfile Gemfile --path vendor/bundle
-          npm install --prefix assets
-          npm run build --prefix assets
 
       - name: Build site
         run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"
