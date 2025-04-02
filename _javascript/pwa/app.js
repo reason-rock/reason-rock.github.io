@@ -1,43 +1,44 @@
----
-layout: compress
-permalink: /assets/js/dist/:basename.min.js
----
+import Toast from 'bootstrap/js/src/toast';
 
 if ('serviceWorker' in navigator) {
-  const isEnabled = '{{ site.pwa.enabled }}' === 'true';
+  // Get Jekyll config from URL parameters
+  const src = new URL(document.currentScript.src);
+  const register = src.searchParams.get('register');
+  const baseUrl = src.searchParams.get('baseurl');
 
-  if (isEnabled) {
-    const swUrl = '{{ '/sw.min.js' | relative_url }}';
-    const $notification = $('#notification');
-    const $btnRefresh = $('#notification .toast-body>button');
+  if (register) {
+    const swUrl = `${baseUrl}/sw.min.js`;
+    const notification = document.getElementById('notification');
+    const btnRefresh = notification.querySelector('.toast-body>button');
+    const popupWindow = Toast.getOrCreateInstance(notification);
 
     navigator.serviceWorker.register(swUrl).then((registration) => {
-      {% comment %}In case the user ignores the notification{% endcomment %}
+      // Restore the update window that was last manually closed by the user
       if (registration.waiting) {
-        $notification.toast('show');
+        popupWindow.show();
       }
 
       registration.addEventListener('updatefound', () => {
         registration.installing.addEventListener('statechange', () => {
           if (registration.waiting) {
             if (navigator.serviceWorker.controller) {
-              $notification.toast('show');
+              popupWindow.show();
             }
           }
         });
       });
 
-      $btnRefresh.on('click', () => {
+      btnRefresh.addEventListener('click', () => {
         if (registration.waiting) {
           registration.waiting.postMessage('SKIP_WAITING');
         }
-        $notification.toast('hide');
+        popupWindow.hide();
       });
     });
 
     let refreshing = false;
 
-    {% comment %}Detect controller change and refresh all the opened tabs{% endcomment %}
+    // Detect controller change and refresh all the opened tabs
     navigator.serviceWorker.addEventListener('controllerchange', () => {
       if (!refreshing) {
         window.location.reload();
