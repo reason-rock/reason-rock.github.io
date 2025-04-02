@@ -2,7 +2,7 @@
 title: 우분투 부팅시간 Start job is running for /dev/disk/by-uuid/
 date:  2025-04-02 12:53:11 +9:00
 categories: [Linux, Ubuntu]
-tags: [우분투, 듀얼부팅, 멀티부팅, 윈도우, 리눅스, 부팅, UUID, Start job, ubuntu, linux, fstab, initramfs]
+tags: [우분투, 듀얼부팅, 멀티부팅, 윈도우, 리눅스, 부팅, UUID, Start job, ubuntu, fstab, initramfs]
 ---
 
 듀얼부팅 상태에서 윈도우를 재설치하고, 우분투가 잡히지 않는 문제를 해결하였으나 하나의 문제가 더 있었다.
