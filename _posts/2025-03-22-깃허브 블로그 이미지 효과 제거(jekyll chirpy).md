@@ -23,3 +23,12 @@ assets/css/jekyll-theme-chirpy.scss에
 을 추가하면 없어진다.
 
 끝.
+
+**240403_내용추가**
+
+이 이후로 윈도우에서 커밋하니 레이아웃이 다 깨지는 문제가 발생.
+<img width="857" alt="Image" src="https://github.com/user-attachments/assets/b1d5a23e-f206-439c-bc73-f016145dec87" />
+커밋 로그를 보니 jekyll-theme-chirpy.scss 파일에 'production'이 ' production '으로 바껴있음.
+다시 원래대로 수정하고 ctrl + S를 누르니 다시 공백이 생김.
+vscode prettier 등의 자동 포맷팅 툴이 건드리는걸로 추정.
+메모장에서 편집, 저장하고 vscode에서 다시 열지 않으니 정상화.
