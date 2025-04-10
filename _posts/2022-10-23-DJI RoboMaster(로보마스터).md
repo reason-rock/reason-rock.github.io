@@ -48,13 +48,13 @@ tags: [DJI, RoboMaster, 로보마스터, 블럭코딩, 자율주행, 라인인�
 <h4>결과</h4>
 
 <h5>1.객체인식/추적</h5>
-<img src="/assets/img/Robo_Master/1.gif">
+<img src="/assets/img/Robo_Master/1.gif" alt="비전마커 발견 후 추적하는 로보마스터">
 <br>
 
 * 비전마커 발견시 led색 바뀌며 추적하는 모습을 볼 수 있다.
 
 <h5>2.라인인식, 객체탐지/사격, 반복탐지시 통과</h5>
-<img src="/assets/img/Robo_Master/2.gif">
+<img src="/assets/img/Robo_Master/2.gif" alt="라인을 따라 이동하며 타깃을 탐지하고 사격하는 로보마스터">
 <br>
 
 * 라인을 따라 정해진 영역을 기동하다가 타깃(비전마커)발견시 정차 후 발포, 그 후 다시 기동한다.

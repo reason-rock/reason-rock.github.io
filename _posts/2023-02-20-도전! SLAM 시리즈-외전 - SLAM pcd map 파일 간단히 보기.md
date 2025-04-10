@@ -21,7 +21,6 @@ SLAM을 통해 PCD 맵을 뽑아냈다.
 `pcl_viewer GlobalMap.pcd`
 를 입력하면?
 
-
-<img src="/assets/img/PCD_viewer/PCD_viewer.png"><br>
+<img src="/assets/img/PCD_viewer/PCD_viewer.png" alt="PCD 파일을 pcl_viewer로 연 화면"><br>
 
 맵을 바로 볼 수 있다.

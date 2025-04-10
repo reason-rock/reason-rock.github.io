@@ -8,15 +8,15 @@ tags: [Linux, ubuntu, Default program, python, Vscode, ubuntu 20.04]
 To open the python file on the Linux system, there was inconvenient to open with Vscode because ubuntu basically opened the file with a text editor.
 <br>
 
-<img src="/assets/img/default_program/default_applications.png">
+<img src="/assets/img/default_program/default_applications.png" alt="Ubuntu default applications setting tab">
 There was a default program setting tab, but it was meaningless because there was no other option in the checklist.
 <br>
 The solution is simple
 <br>
 1. Right-click on the file and open the properties<br>
-<img src="/assets/img/default_program/open_with.png">
+<img src="/assets/img/default_program/open_with.png" alt="Ubuntu file properties open with tab">
 2. Click the open with... option, which is on the right side of the three options.<br>
-<img src="/assets/img/default_program/set_as_default.png">
+<img src="/assets/img/default_program/set_as_default.png" alt="Set as default button in Ubuntu open with tab">
 3. Click the application which you want to open with, and Set the program to default with the Set as default button.<br>
 4. 끝<br>
 

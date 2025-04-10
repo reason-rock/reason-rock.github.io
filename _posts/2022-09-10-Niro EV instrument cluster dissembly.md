@@ -12,5 +12,5 @@ tags: [Niro, Niro EV, EV, Cluster, Cluster removal, cluster disassembly, kia nir
 4. Unlike the 'cluster fascia panel', the 'instrument cluster' has two additional screws at the top, requiring a total of four removal.
 
 <br>
-<img src="/assets/img/NEV_Cluster/1.jpg">
-<img src="/assets/img/NEV_Cluster/2.jpg">
+<img src="/assets/img/NEV_Cluster/1.jpg" alt="Niro EV instrument cluster fascia panel removal">
+<img src="/assets/img/NEV_Cluster/2.jpg" alt="Niro EV instrument cluster disassembled view">
