@@ -6,7 +6,9 @@ order: 5
 permalink: /privacy-policy/
 ---
 
-At **this blog**, accessible from `https://reason-rock.github.io`, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by **this blog** and how we use it.
+Last updated: June 6, 2026
+
+At **reason_rock**, accessible from `https://reason-rock.github.io`, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by **reason_rock** and how we use it.
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 
@@ -23,6 +25,8 @@ Like any other website, **this blog** uses 'cookies'. These cookies are used to 
 These third-party ad servers or ad networks use technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on **this blog**, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.
 
 Note that **this blog** has no access to or control over these cookies that are used by third-party advertisers.
+
+Google and its partners may use cookies to serve ads based on prior visits to this site or other websites. You can learn more about how Google uses data when you use partners' sites or apps at [https://policies.google.com/technologies/partner-sites](https://policies.google.com/technologies/partner-sites).
 
 ## Google Analytics
 
